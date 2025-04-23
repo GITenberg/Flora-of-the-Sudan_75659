@@ -1,0 +1,62 @@
+_repo: Flora-of-the-Sudan_75659
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Hutchinson, J. (John)
+    alias: Hutchinson, John
+    birthdate: 1884
+    deathdate: 1972
+    gutenberg_agent_id: '58090'
+    url: http://www.gutenberg.org/2009/agents/58090
+    wikipedia: https://en.wikipedia.org/wiki/John_Hutchinson_(botanist)
+creator:
+  authors:
+  - agent_name: Broun, A. F. (Alfred Forbes)
+    alias: Broun, Alfred Forbes
+    birthdate: 1858
+    deathdate: 1953
+    gutenberg_agent_id: '58084'
+    url: http://www.gutenberg.org/2009/agents/58084
+  - agent_name: Massey, R. E. (Reginald Ernest)
+    alias: Massey, Reginald Ernest
+    gutenberg_agent_id: '58085'
+    url: http://www.gutenberg.org/2009/agents/58085
+description: 'Reading ease score: 72.0 (7th grade). Fairly easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Nature/Gardening/Animals'
+- 'Browsing: Science - Earth/Agricultural/Farming'
+gutenberg_issued: '2025-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75659'
+language: en
+pgterms:marc904: https://archive.org/details/floraofsudan0000afbr
+pgterms:marc905: 20250225010421broun
+pgterms:marc906: '1929'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bSudan Government Office, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants -- Sudan'
+- !lcsh 'Plant names, Popular -- Sudan'
+- !lcc 'QK'
+- GITenberg
+summary: '"Flora of the Sudan" by A. F. Broun and R. E. Massey is a scientific publication
+  written in the late 1920s. This comprehensive work serves as a detailed catalogue
+  of flowering plants found in the Sudan, featuring extensive sections on plant families,
+  genera, and species, alongside vernacular names and economic uses. It aims to provide
+  a systematic enumeration of the plant life in the region, incorporating contributions
+  from a variety of botanists and previous studies.  At the start of the publication,
+  the authors recount the development of their catalogue, mentioning initial efforts
+  that occurred after the appointment of Broun as the Director of Woods and Forests.
+  They discuss the collection of plant samples during numerous field trips, the assistance
+  received from various individuals in documenting the local flora, and the evolution
+  of the catalogue''s format over the years. The opening sets the foundation for a
+  thorough investigation of botanical diversity while highlighting the collaborative
+  work that made the publication possible. (This is an automatically generated summary.)'
+title: Flora of the Sudan
+url: http://www.gutenberg.org/ebooks/75659
