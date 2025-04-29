@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '58090'
     url: http://www.gutenberg.org/2009/agents/58090
     wikipedia: https://en.wikipedia.org/wiki/John_Hutchinson_(botanist)
+covers:
+- cover_type: archival
+  image_path: 75659-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Broun, A. F. (Alfred Forbes)
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '58085'
     url: http://www.gutenberg.org/2009/agents/58085
 description: 'Reading ease score: 72.0 (7th grade). Fairly easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75659#Flora-of-the-Sudan
 gutenberg_bookshelf:
 - 'Browsing: Nature/Gardening/Animals'
 - 'Browsing: Science - Earth/Agricultural/Farming'
